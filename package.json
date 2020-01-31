@@ -1,0 +1,26 @@
+{
+  "name": "mywebpage",
+  "version": "1.0.0",
+  "description": "Mi pagina web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfriveros11/DiegoRiveros.git"
+  },
+  "keywords": [],
+  "author": "Diego Riveros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfriveros11/DiegoRiveros/issues"
+  },
+  "homepage": "https://github.com/dfriveros11/DiegoRiveros#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-react": "^7.18.0",
+    "prettier": "1.19.1"
+  }
+}
