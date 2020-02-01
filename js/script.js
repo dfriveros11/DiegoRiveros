@@ -1,0 +1,4 @@
+function updateCardPositions{
+   'use strict';
+   
+}
