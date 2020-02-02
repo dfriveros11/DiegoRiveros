@@ -7,15 +7,21 @@ My first Web Development, which is composed of my profile, my hobbies, a researc
 HTML CSS Bootstrap Javascript
 
 ## Prerequisites
+
 Ubuntu 18.04
 
+Execute the following lines of codes in your linux terminal:
+
+```
 curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
 sudo apt install nodejs
 npm install reload
-
-then, you can use either of this two commands to host the web page locally: 
+```
+After installing the above packages, you can use either of both commands to host the web page locally: 
+```
 python3 -m http.server 8080
 reload .
+```
 
 # Author and Link
 Diego Riveros                                                                                                                               
