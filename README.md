@@ -15,5 +15,5 @@ Diego Riveros
 ![CV1](https://user-images.githubusercontent.com/20862741/73600384-50315580-451d-11ea-9955-ba3813094e78.PNG)
 
 # MIT License 
-This project is licensed by the MIT [License]().
+This project is licensed by the MIT [License](https://github.com/dfriveros11/DiegoRiveros/blob/master/LICENSE.md).
 
