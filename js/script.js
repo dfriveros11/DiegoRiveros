@@ -19,23 +19,25 @@ function updateCardPositions() {
     photo = 1;
 
   setInterval(function() {
+
     document
-      .getElementById(ids[i] + idstipo[photo])
+      .getElementById(ids[0] + idstipo[photo])
       .setAttribute("src", src[i]);
-    document.getElementById(ids[i] + idstipo[title]).innerText = names[i];
+    document.getElementById(ids[0] + idstipo[title]).innerText = names[i];
 
     document
-      .getElementById(ids[j] + idstipo[photo])
+      .getElementById(ids[1] + idstipo[photo])
       .setAttribute("src", src[j]);
-    document.getElementById(ids[j] + idstipo[title]).innerText = names[j];
+    document.getElementById(ids[1] + idstipo[title]).innerText = names[j];
 
     document
-      .getElementById(ids[k] + idstipo[photo])
+      .getElementById(ids[2] + idstipo[photo])
       .setAttribute("src", src[k]);
-    document.getElementById(ids[k] + idstipo[title]).innerText = names[k];
+    document.getElementById(ids[2] + idstipo[title]).innerText = names[k];
 
     i === 2 ? (i = 0) : i++;
     j === 2 ? (j = 0) : j++;
     k === 2 ? (k = 0) : k++;
+
   }, 2000);
 }
