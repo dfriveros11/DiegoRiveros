@@ -6,6 +6,14 @@ My first Web Development, which is composed of my profile, my hobbies, a researc
 
 ## Prerequisites
 
+curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+sudo apt install nodejs
+npm install reload
+
+then, you can use either of this two commands to host the web page locally: 
+python3 -m http.server 8080
+reload .
+
 # Author and Link
 Diego Riveros                                                                                                                               
 :link: Hey! Here's my [website](https://dfriveros11.github.io/DiegoRiveros/index.html)
