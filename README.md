@@ -4,7 +4,12 @@ My first Web Development, which is composed of my profile, my hobbies, a researc
 
 ## Used technologies
 
+I used the following technologies to develop the web page: 
 
+```
+HTML, CSS, Bootsrap
+```
+and 
 ```javascript
 Javascript
 ```
