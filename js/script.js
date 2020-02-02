@@ -19,7 +19,6 @@ function updateCardPositions() {
     photo = 1;
 
   setInterval(function() {
-
     document
       .getElementById(ids[0] + idstipo[photo])
       .setAttribute("src", src[i]);
@@ -38,7 +37,5 @@ function updateCardPositions() {
     i === 2 ? (i = 0) : i++;
     j === 2 ? (j = 0) : j++;
     k === 2 ? (k = 0) : k++;
-
   }, 1500);
 }
-
