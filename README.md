@@ -43,7 +43,11 @@ Diego Riveros
 # Screenshots
 ![Screenshot1](https://user-images.githubusercontent.com/20862741/73600378-4576c080-451d-11ea-9d72-d6499b8f0d15.PNG)
 ![Captura](https://user-images.githubusercontent.com/20862741/73600381-4ad40b00-451d-11ea-87d8-56a8a2bbd3ca.PNG)
+![image](https://user-images.githubusercontent.com/20862741/73615939-2b9bb300-45db-11ea-964d-e8cd1982cf8e.png) 
 ![CV1](https://user-images.githubusercontent.com/20862741/73600384-50315580-451d-11ea-9955-ba3813094e78.PNG)
+![image](https://user-images.githubusercontent.com/20862741/73615946-3fdfb000-45db-11ea-80fb-ff8c1e02e1f7.png)  
+![image](https://user-images.githubusercontent.com/20862741/73615953-5ab22480-45db-11ea-8167-05e35b57efce.png)
+
 
 # MIT License 
 This project is licensed by the MIT [License](https://github.com/dfriveros11/DiegoRiveros/blob/master/LICENSE.md).
