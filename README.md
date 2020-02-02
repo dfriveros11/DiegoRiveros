@@ -5,6 +5,7 @@ My first Web Development, which is composed of my profile, my hobbies, a researc
 ## Used technologies
 
 ## Prerequisites
+Ubuntu 18.04
 
 curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
 sudo apt install nodejs
