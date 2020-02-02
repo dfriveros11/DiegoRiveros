@@ -4,6 +4,8 @@ My first Web Development, which is composed of my profile, my hobbies, a researc
 
 ## Used technologies
 
+HTML CSS Bootstrap Javascript
+
 ## Prerequisites
 Ubuntu 18.04
 
@@ -17,7 +19,7 @@ reload .
 
 # Author and Link
 Diego Riveros                                                                                                                               
-:link: Hey! Here's my [website](https://dfriveros11.github.io/DiegoRiveros/index.html)
+:link: Hey! Here's my [website](https://dfriveros11.github.io/DiegoRiverosWebPage/)
 # Screenshots
 ![Screenshot1](https://user-images.githubusercontent.com/20862741/73600378-4576c080-451d-11ea-9d72-d6499b8f0d15.PNG)
 ![Captura](https://user-images.githubusercontent.com/20862741/73600381-4ad40b00-451d-11ea-87d8-56a8a2bbd3ca.PNG)
