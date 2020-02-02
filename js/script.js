@@ -39,17 +39,6 @@ function updateCardPositions() {
     j === 2 ? (j = 0) : j++;
     k === 2 ? (k = 0) : k++;
 
-  }, 2000);
+  }, 1500);
 }
 
-
-var $grid = $('.gallery-wrapper').masonry({
-    itemSelector: '.grid-item',
-    columnWidth: '.grid-sizer',
-    percentPosition: true,
-    transitionDuration: 0,
-  });
-
-  $grid.imagesLoaded().progress( function() {
-    $grid.masonry();
-  });
