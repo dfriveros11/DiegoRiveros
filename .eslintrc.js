@@ -5,7 +5,8 @@ module.exports = {
 	},
 	"extends": [
 		"eslint:recommended",
-		"plugin:react/recommended"
+		"plugin:react/recommended",
+		"prettier"
 	],
 	"globals": {
 		"Atomics": "readonly",
@@ -23,8 +24,7 @@ module.exports = {
 	],
 	"rules": {
 		"indent": [
-			"error",
-			"tab"
+			"error", 2
 		],
 		"linebreak-style": [
 			"error",
