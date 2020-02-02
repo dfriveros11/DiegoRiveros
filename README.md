@@ -1,6 +1,6 @@
 # My project goal 
 This is my website.                                                                                                                        
-My first Web Development, which is composed of my profile, my hobbies, a research project where I'm working on, and my cv, in case you want to know more about me professionally. 
+My first Web Development, which is composed of my profile, my hobbies, a research project where I'm working on, and my CV, in case you want to know more about me professionally. 
 
 ## Used technologies
 
