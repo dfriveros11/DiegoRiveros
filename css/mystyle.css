@@ -50,3 +50,20 @@ h4{
 .navbar{
   background-color: #e3f2fd;
 }
+
+
+.gallery-wrapper {
+  overflow: hidden;
+}
+
+.grid-item {
+  padding-bottom: 3rem;
+}
+
+.progress-bar-striped{
+  width: 65%;
+}
+
+.progress{
+  width: 90%;
+}
