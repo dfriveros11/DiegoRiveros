@@ -41,7 +41,7 @@ reload .
 Diego Riveros                                                                                                                               
 :link: Hey! Here's my [website](https://dfriveros11.github.io/DiegoRiverosWebPage/)
 # Screenshots
-![Screenshot1](https://user-images.githubusercontent.com/20862741/73600378-4576c080-451d-11ea-9d72-d6499b8f0d15.PNG)
+![image](https://user-images.githubusercontent.com/20862741/73617463-f8fab600-45ec-11ea-9622-35f87ddc13f9.png)
 ![Captura](https://user-images.githubusercontent.com/20862741/73600381-4ad40b00-451d-11ea-87d8-56a8a2bbd3ca.PNG)
 ![image](https://user-images.githubusercontent.com/20862741/73615939-2b9bb300-45db-11ea-964d-e8cd1982cf8e.png) 
 ![CV1](https://user-images.githubusercontent.com/20862741/73600384-50315580-451d-11ea-9955-ba3813094e78.PNG)
